@@ -29,9 +29,10 @@ print(f"precio: {precio}")
 print(f"cantidad: {cantidad}")
 print(f"total: {costo_total}")
 
-#comentario general
+#comentario general:
+
 # mediante este programa de invetario se le pide al usuario el nombre del producto,
 # precio del prodcuto y la cantidad. Lo que hace el sistema es validar el precio y 
 # la cantidad, pero que sean valores correctos por medio del int y float. Despues de
 # validar los datos, procede a calcular el costo total mediante un operación donde se
-# multiplica el precio por la cantidad, para finalmente arrojar un resumen con toda la información
+# multiplica el precio por la cantidad, para finalmente arrojar un resumen con toda la información.
