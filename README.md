@@ -16,6 +16,10 @@ The program is an example of how basic Python concepts work in a practical scena
 5. The program calculates the total cost by multiplying price and quantity.
 6. Finally, the program displays a summary with the product information.
 
+## Status
+
+> The project is currently running and it is demonstrating a simple inventory calculation process in Python.
+
 
 ---
 
