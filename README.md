@@ -1,5 +1,19 @@
 # inventario python 
 
+## *Requisitos*:
+Para ejecuatr este programa es necesario tener instalado:
+- python 3.10 o superior
+- Git
+- Acceso a una terminal o línea de comandos
+
+Para verificar que python esté instalado, escribe en la terminal:
+
+Pyhton --version
+
+Si Python está instalado correctamente, aparecerá algo similar a:
+
+Python 3.11.4
+
 ## *como ejecutar le progama desde la terminal*:
 1. *Abrir terminal*: Primero abres la terminal de tu computador. En Linux o Mac puedes abrirla desde la aplicación "terminal"
 
@@ -32,7 +46,7 @@ este programa permite registrar un producto en un inventario. Le solicita al usu
 
 ## *Diagrama de flujo*:
 
-![diagrama de flujo](imagen1.png)
+![alt text](<Captura desde 2026-03-12 17-06-32-2.png>)
 
 ---
 
